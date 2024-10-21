@@ -1,0 +1,1717 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-10-20T12:52:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29391281",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Surya Sumantri Setrasari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581367,
+          -6.8825853
+        ]
+      },
+      "id": "node/29391281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29392017",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Cipaganti Atas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6020333,
+          -6.8876837
+        ]
+      },
+      "id": "node/29392017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29392645",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "ref": "Husen Sastranegara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5857922,
+          -6.9071256
+        ]
+      },
+      "id": "node/29392645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32520380",
+        "addr:city": "Bandung",
+        "addr:street": "Jalan Pahlawan, Cikutra, Cibeunying Kidul",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "fuel:diesel": "yes;lite",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:solar": "no",
+        "name": "Pertamina",
+        "opening_hours": "24/7",
+        "ref": "34.401.14 Pahlawan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6343231,
+          -6.8997316
+        ]
+      },
+      "id": "node/32520380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32529107",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "opening_hours": "24/7",
+        "ref": "Dr. Setiabudhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5987095,
+          -6.8806043
+        ]
+      },
+      "id": "node/32529107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32529115",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "ref": "Sudirman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5840572,
+          -6.9185944
+        ]
+      },
+      "id": "node/32529115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179266753",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "compressed_air": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Pertamina",
+        "ref": "Cihampelas Atas",
+        "source": "Local knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6037642,
+          -6.8886545
+        ]
+      },
+      "id": "way/179266753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183170426",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6103232,
+          -6.9363598
+        ]
+      },
+      "id": "way/183170426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285018918",
+        "amenity": "fuel",
+        "branch": "Gunung Batu",
+        "brand": "Pertamina",
+        "building": "yes",
+        "name": "Pertamina",
+        "ref": "Gunung Batu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5629229,
+          -6.891756
+        ]
+      },
+      "id": "way/285018918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299058088",
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:street": "Jalan Dipatiukur",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "building": "yes",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6165945,
+          -6.8908283
+        ]
+      },
+      "id": "way/299058088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321005288",
+        "addr:city": "Bandung",
+        "addr:housenumber": "139",
+        "addr:street": "Jalan Dokter Djunjunan",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "opening_hours": "24/7",
+        "operator": "Pertamina",
+        "ref": "34.401.16 Dr. Djundjunan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5860977,
+          -6.8935305
+        ]
+      },
+      "id": "way/321005288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356386390",
+        "addr:city": "Bandung",
+        "addr:housenumber": "728",
+        "addr:street": "Jalan Soekarno Hatta",
+        "alt_name": "SPBU Ujungberung;SPBU Coco Ujungberung",
+        "amenity": "fuel",
+        "atm": "yes",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "fuel:diesel": "yes",
+        "fuel:octane_88": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Pertamina",
+        "operator": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.693917,
+          -6.9374582
+        ]
+      },
+      "id": "way/356386390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383052743",
+        "addr:street": "Jalan Soekarno-Hatta",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "building": "yes",
+        "name": "Pertamina",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6625098,
+          -6.9396348
+        ]
+      },
+      "id": "way/383052743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/391859740",
+        "amenity": "fuel",
+        "building": "commercial",
+        "name": "SPBU Pertamina",
+        "opening_hours": "24/7",
+        "ref": "Sukajadi Hasan Sadikin",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5970165,
+          -6.8980911
+        ]
+      },
+      "id": "way/391859740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426568894",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "ref": "Naripan x Tamblong",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6119467,
+          -6.919876
+        ]
+      },
+      "id": "way/426568894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/515703457",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "SPBU Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6168083,
+          -6.9382568
+        ]
+      },
+      "id": "way/515703457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/515704095",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "SPBU Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6178229,
+          -6.9376946
+        ]
+      },
+      "id": "way/515704095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/633581790",
+        "addr:city": "Bandung",
+        "addr:street": "Jalan Buah Batu",
+        "alt_name": "SPBU Buah Batu Exit",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Pertamina",
+        "operator": "Pertamina",
+        "self_service": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6387438,
+          -6.9605927
+        ]
+      },
+      "id": "way/633581790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636169232",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585959,
+          -6.8935818
+        ]
+      },
+      "id": "way/636169232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638400222",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Pertamini Barokah Lapangan Abra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5909396,
+          -6.8859613
+        ]
+      },
+      "id": "way/638400222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638470940",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5892089,
+          -6.8950995
+        ]
+      },
+      "id": "way/638470940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/721493912",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6271612,
+          -6.8991444
+        ]
+      },
+      "id": "way/721493912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/721497810",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6423171,
+          -6.9429392
+        ]
+      },
+      "id": "way/721497810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/721497811",
+        "alt_name": "SPBU Terusan Kiaracondong",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "ref": "31.402.01",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6419023,
+          -6.9409118
+        ]
+      },
+      "id": "way/721497811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/968159502",
+        "alt_name": "SPBU Dago; SPBU COCO Dago",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "ref": "COCO Dago",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6128827,
+          -6.8901183
+        ]
+      },
+      "id": "way/968159502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026675567",
+        "alt_name": "SPBU Laswi Samoja",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6278685,
+          -6.9234503
+        ]
+      },
+      "id": "way/1026675567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026675568",
+        "alt_name": "SPBU Laswi Flyover;SPBU Samoja;SPBU Laswi samoja",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6278679,
+          -6.9231756
+        ]
+      },
+      "id": "way/1026675568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107877728",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Sunda / Gudang Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6184255,
+          -6.9164642
+        ]
+      },
+      "id": "node/1107877728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1123915746",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Shell",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:notes": "yes",
+        "ref": "Cimuncang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6505327,
+          -6.9014423
+        ]
+      },
+      "id": "way/1123915746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1123999692",
+        "amenity": "fuel",
+        "area": "yes",
+        "brand": "Pertamina",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "retail",
+        "operator": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7104689,
+          -6.9260197
+        ]
+      },
+      "id": "way/1123999692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1152622066",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "capacity": "6",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "retail",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "ref": "Pelajar Pejuang",
+        "self_service": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6238456,
+          -6.9363637
+        ]
+      },
+      "id": "way/1152622066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1158365985",
+        "amenity": "fuel",
+        "branch": "Soekarno Hatta Buahbatu",
+        "brand": "Pertamina",
+        "building": "service",
+        "building:use": "retail",
+        "fuel:biodiesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Pertamina",
+        "opening_hours": "24/7",
+        "ref": "34.402.02",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6353323,
+          -6.9478733
+        ]
+      },
+      "id": "way/1158365985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184111365",
+        "amenity": "fuel",
+        "branch": "Sudirman",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:GTL_diesel": "no",
+        "fuel:biodiesel": "no",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "no",
+        "landuse": "commercial",
+        "name": "Shell",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "ref": "Sudirman",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5851533,
+          -6.9188563
+        ]
+      },
+      "id": "way/1184111365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184757522",
+        "branch": "SPBU Shell Soekarno Hatta Cibaduyut",
+        "brand": "Shell",
+        "indoor": "room",
+        "name": "Shell Select",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "ref": "Soekarno Hatta Cibaduyut",
+        "room": "shop",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5992049,
+          -6.9470997
+        ]
+      },
+      "id": "way/1184757522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184757526",
+        "amenity": "fuel",
+        "branch": "Soekarno Hatta Cibaduyut",
+        "brand": "Shell",
+        "fuel:GTL_diesel": "no",
+        "fuel:biodiesel": "no",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Shell",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "ref": "Soekarno Hatta Cibaduyut",
+        "shop": "kiosk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5991364,
+          -6.9472785
+        ]
+      },
+      "id": "way/1184757526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184757534",
+        "amenity": "fuel",
+        "branch": "Wastukencana",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Pertamina",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "payment:cash": "yes",
+        "payment:contactless": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6070345,
+          -6.9043778
+        ]
+      },
+      "id": "way/1184757534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184767822",
+        "amenity": "fuel",
+        "branch": "Dr. Djunjunan",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "capacity": "4",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "retail",
+        "name": "Shell",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "ref": "Pasteur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5872113,
+          -6.894576
+        ]
+      },
+      "id": "way/1184767822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184767825",
+        "branch": "Shell Dr. Djunjunan",
+        "brand": "Shell",
+        "indoor": "room",
+        "name": "Shell Select",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5871306,
+          -6.894847
+        ]
+      },
+      "id": "way/1184767825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184768320",
+        "amenity": "fuel",
+        "branch": "Cihampelas",
+        "brand": "Shell",
+        "capacity": "6",
+        "fuel:GTL_diesel": "yes",
+        "fuel:biodiesel": "no",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "no",
+        "fuel:octane_90": "no",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Shell",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "ref": "Cihampelas",
+        "shop": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6043322,
+          -6.8989287
+        ]
+      },
+      "id": "way/1184768320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184768323",
+        "branch": "Shell Cihampelas",
+        "brand": "Shell",
+        "indoor": "room",
+        "name": "Shell Select",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "room": "shop",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044531,
+          -6.8989536
+        ]
+      },
+      "id": "way/1184768323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188020113",
+        "amenity": "fuel",
+        "branch": "Pasir Koja",
+        "brand": "Shell",
+        "capacity": "6",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "no",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "retail",
+        "name": "Shell",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "ref": "Pasir Koja",
+        "shop": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932695,
+          -6.9259288
+        ]
+      },
+      "id": "way/1188020113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1189082378",
+        "amenity": "fuel",
+        "branch": "Gatot Subroto",
+        "brand": "Pertamina",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Pertamina",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "shop": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6316851,
+          -6.925705
+        ]
+      },
+      "id": "way/1189082378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1189777686",
+        "amenity": "fuel",
+        "barrier": "wall",
+        "branch": "Simpang Ahmad Yani - Supratman",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "capacity": "10",
+        "compressed_air": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Pertamina",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "shop": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.633871,
+          -6.9134161
+        ]
+      },
+      "id": "way/1189777686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1189780777",
+        "amenity": "fuel",
+        "branch": "Simpang Gedebage Utara",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "capacity": "6",
+        "fuel:biodiesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "landuse": "commercial",
+        "name": "Pertamina",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "ref": "34-402.09",
+        "shop": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6914537,
+          -6.9367444
+        ]
+      },
+      "id": "way/1189780777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1190521961",
+        "branch": "Pasir Koja",
+        "brand": "Shell",
+        "name": "Shell Select",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "ref": "Pasir Koja",
+        "shop": "convenience",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933671,
+          -6.9258988
+        ]
+      },
+      "id": "way/1190521961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1210808941",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.677419,
+          -6.9402951
+        ]
+      },
+      "id": "way/1210808941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1215285823",
+        "amenity": "fuel",
+        "branch": "Cibiru",
+        "brand": "Pertamina",
+        "fuel:biodiesel": "no",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "no",
+        "fuel:octane_98": "yes",
+        "name": "Pertamina",
+        "payment:cash": "yes",
+        "ref": "34.406-02",
+        "shop": "yes",
+        "toilets": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.714289,
+          -6.9359453
+        ]
+      },
+      "id": "way/1215285823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1283219621",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5969678,
+          -6.8753644
+        ]
+      },
+      "id": "way/1283219621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1293528265",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "SPBU Pertamina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6037514,
+          -6.9302936
+        ]
+      },
+      "id": "way/1293528265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1306241578",
+        "alt_name": "SPBU Cinambo",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Pertamina",
+        "operator": "Pertamina",
+        "ref": "34.406.06",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6966157,
+          -6.9239028
+        ]
+      },
+      "id": "way/1306241578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1781964169",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Rest Area Gedebage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.681435,
+          -6.9668864
+        ]
+      },
+      "id": "node/1781964169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1956516948",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "name": "Pertamina",
+        "ref": "COCO Dago Atas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6208319,
+          -6.8689389
+        ]
+      },
+      "id": "node/1956516948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016380280",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "fuel:biodiesel": "no",
+        "fuel:diesel": "yes",
+        "fuel:octane_90": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Pertamina",
+        "ref": "Surya Sumantri Babakan Jeruk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5816606,
+          -6.8890673
+        ]
+      },
+      "id": "node/2016380280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500443120",
+        "alt_name": "SPBU Cijagra",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "name": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625816,
+          -6.9492397
+        ]
+      },
+      "id": "node/2500443120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500443121",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117403,
+          -6.9548757
+        ]
+      },
+      "id": "node/2500443121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701279836",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Terminal Sadang Serang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6256199,
+          -6.8910576
+        ]
+      },
+      "id": "node/2701279836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426583579",
+        "addr:street": "Jalan A.H Nasution",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Sukamiskin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.673229,
+          -6.9047901
+        ]
+      },
+      "id": "node/3426583579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426585961",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Embah Jaksa Cipadung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7120823,
+          -6.9289714
+        ]
+      },
+      "id": "node/3426585961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3429603357",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6185972,
+          -6.9057833
+        ]
+      },
+      "id": "node/3429603357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4143020532",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "ref": "Babakan Daese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6440968,
+          -6.9231052
+        ]
+      },
+      "id": "node/4143020532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4143041693",
+        "addr:street": "Jalan Purwakarta",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "ref": "Purwakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6517728,
+          -6.9136217
+        ]
+      },
+      "id": "node/4143041693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4143047589",
+        "addr:street": "Jalan Raya Kiara Condong",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "Soma Kiaracondong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.644464,
+          -6.9183776
+        ]
+      },
+      "id": "node/4143047589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4143049089",
+        "addr:street": "Jalan Terusan Jakarta",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "name:it": "Pertamina",
+        "ref": "Terusan Jakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6589018,
+          -6.9136483
+        ]
+      },
+      "id": "node/4143049089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327908913",
+        "addr:city": "Bandung",
+        "addr:street": "Jl. Rajawali Barat, Maleber, Andir",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina",
+        "name:en": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5746074,
+          -6.9129281
+        ]
+      },
+      "id": "node/4327908913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329578164",
+        "addr:city": "Bandung",
+        "addr:street": "Jl. PH.H. Mustofa, Neglasari, Cibeunying Kaler",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "not:brand:wikidata": "Q1641044",
+        "ref": "34.401.03 Cikutra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6419203,
+          -6.8992841
+        ]
+      },
+      "id": "node/4329578164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5108763054",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "name": "Pertamina",
+        "operator": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5748775,
+          -6.9266538
+        ]
+      },
+      "id": "node/5108763054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5177959021",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "ref": "KantorPOS Ujungberung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6951878,
+          -6.9138016
+        ]
+      },
+      "id": "node/5177959021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5268872144",
+        "addr:city": "Bandung",
+        "addr:housenumber": "55",
+        "addr:postcode": "40266",
+        "addr:street": "Jalan Terusan Buah Batu",
+        "amenity": "fuel",
+        "name": "Pertamina",
+        "operator": "Pertamina",
+        "ref": "Sekelimus Buahbatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6379847,
+          -6.9522858
+        ]
+      },
+      "id": "node/5268872144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5794030254",
+        "amenity": "fuel",
+        "name": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6650947,
+          -6.9041715
+        ]
+      },
+      "id": "node/5794030254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6788925186",
+        "amenity": "fuel",
+        "name": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5820851,
+          -6.9413633
+        ]
+      },
+      "id": "node/6788925186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10166346703",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "fuel:octane_92": "yes",
+        "name": "Pertashop",
+        "ref": "3P.40102",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5930499,
+          -6.8567704
+        ]
+      },
+      "id": "node/10166346703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11050346382",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6369972,
+          -6.912101
+        ]
+      },
+      "id": "node/11050346382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11337326908",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "name": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5708193,
+          -6.9141507
+        ]
+      },
+      "id": "node/11337326908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11869631702",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "name": "SPBU Pertamina Trsn Pasirkoja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.579498,
+          -6.9294651
+        ]
+      },
+      "id": "node/11869631702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11869640786",
+        "alt_name": "SPBU Laswi",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "name": "Pertamina",
+        "operator": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6306979,
+          -6.9224243
+        ]
+      },
+      "id": "node/11869640786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11869686069",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "name": "SPBU Pertamina Trsn Pasteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5859941,
+          -6.8936046
+        ]
+      },
+      "id": "node/11869686069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229339303",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Shell",
+        "ref": "Kebon Kawung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6016929,
+          -6.9123708
+        ]
+      },
+      "id": "node/12229339303"
+    }
+  ]
+}
