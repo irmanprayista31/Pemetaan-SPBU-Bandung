@@ -2,104 +2,237 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: Arial, sans-serif;
-  }
-  
-  h1 {
-    text-align: center;
-    margin: 20px 0;
-  }
-  
+}
+
+#map {
+  width: 100%;
+  height: 80vh;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
   #map {
-    width: 100%;
-    height: 80vh;
-    margin: 0 auto;
+    height: 70vh;
   }
-  
-  @media (max-width: 768px) {
-    #map {
-      height: 70vh;
-    }
-  }
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #fff;
-  }
-  
-  header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  #hero {
-    text-align: center;
-    background: linear-gradient(135deg, #f9d423, #ff4e50);
-    color: white;
-    padding: 30px 10px;
-  }
-  
-  .search-container {
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
-  }
-  
-  input, button {
-    padding: 10px;
-    margin: 5px;
-  }
-  
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body { /*body html*/
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+}
+
+header { /*edit pada header*/
+  background-color: #333;
+  padding: 5px;
+  display: flex; 
+  justify-content: space-between;
+  align-items: center; 
+}
+
+h1 { /*judul header*/
+  text-align: left;
+  margin: 10px 15px;
+  font-size: 35px;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 2px;
+}
+
+header {
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: right;
+  margin: 0 20px;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1em;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #f9d423;
+}
+
+.hamburger { /*Hamburger icon hidden by default (only visible on small screens)*/
+  display: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: white;
+  margin-right: 20px;
+}
+
+h1 { /*judul header*/
+  text-align: left;
+  margin: 10px 15px;
+  font-size: 35px;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 2px;
+}
+
+h2 { /*edit tulisan "Find Gas Stations Nearby*/
+  color: rgb(255, 255, 255);
+  font-size: 2em;
+  font-weight: 500;
+}
+
+
+#hero { /*edit background search bar*/
+  text-align: center;
+  background: linear-gradient(135deg, #f9d423, #ff4e50);
+  color: rgb(255, 255, 255);
+  padding: 20px 20px;
+  font-weight: 100;
+  border-radius: 0 0 20px 20px;
+  margin: 0 100px 0 100px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.search-container { /*jarak search bar dengan text*/
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+input, button { /*edit tombol search dan search bar*/
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+input { /*hilangin stroke pada search bar*/
+  width: 300px;
+  border: 1px solid #ddd;
+}
+
+input:focus { /*menghilangkan garis hitam saat fokus*/
+  outline: none; 
+}
+
+#search-input:focus::placeholder { /*edit tulisan search bar ketika fokus*/
+  color: #bebebe; 
+  opacity: 0.5; 
+}
+
+button { /*edit tombol search*/
+  background-color: #f9d423;
+  border: none;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s ease;
+}
+
+button:hover { /*edit tombol search ketika hover*/
+  color: #f9d423;
+  background-color: #333;
+}
+
+button:active { /*edit tombol search ketika klik*/
+  color: #f9d423;
+  background-color: #333;
+}
+
+#map { /*edit map*/
+  height: 500px;
+  width: 100%;
+  margin: 50px 0 0 0;
+}
+
+.loading {
+  display: none;
+  text-align: center;
+  font-size: 1.5em;
+  color: #f9d423;
+}
+
+footer { /*edit footer*/
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 30px 0;
+}
+
+footer .social-links a { /*edit footer ketika ada penghubung*/
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+
+footer .social-links a:hover { /*edit footer ketika hover*/
+  color: #f9b223;
+}
+
+@media (max-width: 768px) {
   input {
-    width: 300px;
-    border: 1px solid #ddd;
-  }
-  
-  button {
-    background-color: #f9d423;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  button:hover {
-    background-color: #ff4e50;
+    width: 90%;
   }
   
   #map {
-    height: 500px;
-    width: 100%;
-    margin: 20px 0;
+    height: 300px;
   }
-  
-  .loading {
-    display: none;
-    text-align: center;
-    font-size: 1.5em;
-    color: #f9d423;
-  }
-  
-  footer {
+}
+
+/* Media query for screens smaller than 768px */
+@media (max-width: 768px) {
+  /* Hide nav links initially on small screens */
+  nav ul {
+    position: absolute;
+    top: 60px;
+    right: 0;
     background-color: #333;
-    color: white;
+    width: 100%;
     text-align: center;
-    padding: 10px 0;
+    display: none;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
   }
-  
-  @media (max-width: 768px) {
-    input {
-      width: 90%;
-    }
-    
-    #map {
-      height: 300px;
-    }
+
+  nav ul.active {
+    display: flex; /* Show menu when active class is added */
   }
-    
-  
+
+  /* Hamburger icon visible on small screens */
+  .hamburger {
+    display: block;
+  }
+
+  nav ul li {
+    margin: 10px 0;
+  }
+
+  /* Adding transition and animation to the dropdown menu */
+  nav ul {
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+  }
+
+  nav ul.active {
+    opacity: 1;
+    max-height: 500px; /* Set to a value that accommodates the links */
+  }
+}
+

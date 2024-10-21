@@ -11,7 +11,17 @@
 <body>
   <header>
     <h1>SPBU Bandung</h1>
-  </header>
+    <nav>
+      <ul id="nav-links">
+        <li><a href="#hero">Home</a></li>
+        <li><a href="#about">Login</a></li>
+        <li><a href="#contact">About</a></li>
+      </ul>
+    </nav>
+    <div class="hamburger" id="hamburger">
+      &#9776; <!-- This is the 3-line icon -->
+    </div>
+  </header>  
 
   <section id="hero">
     <h2>Find Gas Stations Nearby</h2>
@@ -27,9 +37,15 @@
     <div class="loading">Loading...</div>
   </section>
 
-  <footer>&copy; 2024 SPBU Bandung. All rights reserved.</footer>
+  <footer>
+    <p>&copy; 2024 SPBU Bandung. All rights reserved.</p>
+    <div class="social-links">
+      <a href="#">WhatsApp</a> | <a href="#">YouTube</a> | <a href="#">Instagram</a>
+    </div>
+  </footer>
 
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
   <script src="js/map.js"></script>
+  <script src="js/main.js"></script>
 </body>
 </html>
