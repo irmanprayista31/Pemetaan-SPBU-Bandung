@@ -1,0 +1,105 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  #map {
+    width: 100%;
+    height: 80vh;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 768px) {
+    #map {
+      height: 70vh;
+    }
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #hero {
+    text-align: center;
+    background: linear-gradient(135deg, #f9d423, #ff4e50);
+    color: white;
+    padding: 30px 10px;
+  }
+  
+  .search-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  input, button {
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  input {
+    width: 300px;
+    border: 1px solid #ddd;
+  }
+  
+  button {
+    background-color: #f9d423;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #ff4e50;
+  }
+  
+  #map {
+    height: 500px;
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .loading {
+    display: none;
+    text-align: center;
+    font-size: 1.5em;
+    color: #f9d423;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  @media (max-width: 768px) {
+    input {
+      width: 90%;
+    }
+    
+    #map {
+      height: 300px;
+    }
+  }
+    
+  
